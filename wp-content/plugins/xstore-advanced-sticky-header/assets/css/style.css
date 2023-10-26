@@ -1,0 +1,30 @@
+.sticky-site-header {
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    right: 0;
+}
+.sticky-site-header.sticky-on:not([data-type=sticky])>[class*=header-wrapper], .sticky-site-header>[class*=header-wrapper] .sticky-on>div {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.sticky-site-header.sticky > [class*=header-wrapper] > .sticky:last-of-type,
+.sticky-site-header.sticky>[class*=header-wrapper]>.sticky-on:last-of-type > div {
+    box-shadow: 2px 0 12px 0 rgba(0,0,0,.15);
+}
+.sticky-site-header.sticky-on:not([data-type=sticky])>[class*=header-wrapper] {
+    z-index: 9999;
+}
+.sticky-site-header.sticky-on .sticky-header-wrapper, .sticky-site-header.sticky-on .sticky-mobile-header-wrapper {
+    animation-name: et-toBottomFull;
+    animation-duration: 0.7s;
+}
+
+.sticky-site-header .header-main-menu.et_element-top-level .menu > li > a:hover,
+.sticky-site-header .header-main-menu.et_element-top-level .menu > .current-menu-item > a,
+.sticky-site-header .header-main-menu.et_element-top-level.menu-items-custom .menu > li > a:hover,
+.sticky-site-header .header-main-menu.et_element-top-level.menu-items-custom .menu > .current-menu-item > a {
+    color: currentColor;
+    opacity: .7;
+}

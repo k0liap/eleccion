@@ -1,0 +1,13 @@
+2023-10-22T22:28:00+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\laragon\www\eleccionperfecta\wp-content\plugins\w3-total-cache\Util_Ui.php:1500
+Stack trace:
+#0 C:\laragon\www\eleccionperfecta\wp-content\plugins\w3-total-cache\inc\options\common\header.php(10): W3TC\Util_Ui::print_breadcrumb()
+#1 C:\laragon\www\eleccionperfecta\wp-content\plugins\w3-total-cache\Base_Page_Settings.php(279): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\eleccionperfecta\wp-content\plugins\w3-total-cache\Base_Page_Settings.php(71): W3TC\Base_Page_Settings->view()
+#3 C:\laragon\www\eleccionperfecta\wp-content\plugins\w3-total-cache\Root_AdminMenu.php(310): W3TC\Base_Page_Settings->options()
+#4 C:\laragon\www\eleccionperfecta\wp-includes\class-wp-hook.php(310): W3TC\Root_AdminMenu->options('')
+#5 C:\laragon\www\eleccionperfecta\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#6 C:\laragon\www\eleccionperfecta\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\laragon\www\eleccionperfecta\wp-admin\admin.php(259): do_action('performance_pag...')
+#8 {main}
+  thrown у C:\laragon\www\eleccionperfecta\wp-content\plugins\w3-total-cache\Util_Ui.php доступно 1500
+

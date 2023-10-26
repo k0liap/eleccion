@@ -1,0 +1,314 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: XStore Advanced Sticky Header\n"
+"POT-Creation-Date: 2023-03-31 12:07+0300\n"
+"PO-Revision-Date: 2023-03-31 12:06+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: xstore-advanced-sticky-header.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/core.php:166
+msgid "Advanced sticky header"
+msgstr ""
+
+#: inc/core.php:166
+msgid "new"
+msgstr ""
+
+#: inc/core.php:180
+msgid "View advanced sticky header settings"
+msgstr ""
+
+#: inc/core.php:180
+msgid "Settings"
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:14
+#: modules/customizer/theme-options/sticky-header/elements.php:14
+msgid "Elements"
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:15
+msgid "Elements spacing (px)"
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:16
+msgid "Full-width header"
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:17
+msgid "WCAG Color"
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:18
+msgid "Min height (px)"
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:19
+msgid "Custom sticky logo"
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:22
+msgid "Main configuration"
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:23
+msgid "Style"
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:24
+msgid "Advanced"
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:27
+msgid ""
+"Select the text color for your content. Please choose auto color to ensure "
+"readability with your selected background-color, or switch to the \"Custom "
+"Color\" tab to select any other color you want."
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:28
+msgid ""
+"WCAG control is designed to be used by webdesigners, web developers or web "
+"accessibility professionals to compute the contrast between two colors "
+"(background color, text color)"
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:28
+msgid "More details"
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:29
+msgid "Expand the current header area to the full width of the page."
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:30
+msgid "This controls the minimum height of the current header area."
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:31
+msgid ""
+"Easily rearrange, enable, and disable elements to create a truly unique, "
+"customized, and informative sticky header for your customers."
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:32
+msgid ""
+"Using this option, you can set the spacing value for elements shown in "
+"current sticky header area."
+msgstr ""
+
+#: modules/customizer/theme-options/global/global.php:33
+msgid ""
+"By default, the sticky header uses the site logo. Upload an image to set up "
+"a different logo for the sticky header."
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/elements.php:71
+#, php-format
+msgid "Section %s"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/elements.php:185
+#, php-format
+msgid ""
+"Note: These elements don't work in case you selected \"%s\" mobile layout"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:13
+msgid "General"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:42
+#: modules/customizer/theme-options/sticky-header/general.php:69
+msgid "Layout"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:43
+msgid "Choose the layout type for the content in the sticky header."
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:44
+#: modules/customizer/theme-options/sticky-header/general.php:71
+msgid ""
+"Choose \"Custom\" to set your own column sizes for the content in the sticky "
+"header."
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:53
+#: modules/customizer/theme-options/sticky-header/general.php:80
+#: modules/customizer/theme-options/sticky-header/general.php:299
+msgid "Custom"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:70
+msgid ""
+"Choose the layout type for the content in the sticky header on mobile "
+"devices."
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:98
+#: modules/customizer/theme-options/sticky-header/general.php:130
+msgid "Section 01 width (%)"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:99
+msgid "This controls the width of Section 01 in the sticky header."
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:131
+msgid ""
+"This controls the width of Section 01 in the sticky header on mobile devices."
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:163
+#: modules/customizer/theme-options/sticky-header/general.php:195
+msgid "Section 02 width (%)"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:164
+msgid "This controls the width of Section 02 in the sticky header."
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:196
+msgid ""
+"This controls the width of Section 02 in the sticky header on mobile devices."
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:227
+#: modules/customizer/theme-options/sticky-header/general.php:259
+msgid "Section 03 width (%)"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:228
+msgid "This controls the width of Section 03 in the sticky header."
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:260
+msgid ""
+"This controls the width of Section 03 in the sticky header on mobile devices."
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:291
+msgid "Sticky type"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:292
+msgid ""
+"Our Header Sticky comes in few variations: Smart and Custom, so you can "
+"choose the best option to fit your specific needs. Give them a try and see "
+"the difference for yourself."
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:298
+msgid "Smart"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:308
+msgid "Animation type"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:309
+msgid ""
+"You can choose from a range of customizable animations to create a sticky "
+"header that matches your brand and website design. Our animations are smooth "
+"and seamless, making navigation a breeze for your visitors."
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:313
+msgid "Jump down"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:314
+msgid "Fade in"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:339
+msgid "Animation duration (sec)"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:340
+msgid ""
+"This feature allows you to customize the duration of the animations on your "
+"sticky header."
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:371
+msgid "Start sticky header on scroll (px)"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:372
+msgid ""
+"With this feature, you can choose at which point your header becomes sticky "
+"as your visitors scroll down the page. Choose the perfect starting point for "
+"your sticky header based on your website's layout and user engagement."
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:400
+msgid "Width settings"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/general.php:554
+#: modules/customizer/theme-options/sticky-header/general.php:579
+msgid "Header WCAG Control"
+msgstr ""
+
+#: modules/customizer/theme-options/sticky-header/panel.php:14
+#: templates/frontend/sticky-header.php:17
+#: templates/frontend/sticky-header.php:28
+msgid "Advanced Sticky header"
+msgstr ""
+
+#: xstore-advanced-sticky-header.php:73 xstore-advanced-sticky-header.php:81
+msgid "Cheating huh?"
+msgstr ""
+
+#: xstore-advanced-sticky-header.php:329
+msgid "Attention!"
+msgstr ""
+
+#: xstore-advanced-sticky-header.php:330
+msgid ""
+"XStore Core plugin should be enabled for correct work of XStore Advanced "
+"Sticky header plugin"
+msgstr ""
+
+#: xstore-advanced-sticky-header.php:354
+msgid ""
+"XStore Advanced Sticky header plugin requires the following theme: XStore "
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "XStore Advanced Sticky Header"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://8theme.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Get more control over your website's header with the advanced sticky header "
+"plugin for XStore theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "8theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://xstore.8theme.com"
+msgstr ""

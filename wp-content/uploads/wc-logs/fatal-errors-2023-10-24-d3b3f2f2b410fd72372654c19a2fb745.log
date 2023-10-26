@@ -1,0 +1,19 @@
+2023-10-24T15:01:07+00:00 CRITICAL Out of memory (allocated 153092096) (tried to allocate 20480 bytes) у C:\laragon\www\eleccionperfecta\wp-includes\pomo\mo.php доступно 328
+
+2023-10-24T16:31:54+00:00 CRITICAL Uncaught Error: Call to undefined method ElementorPro\License\Admin::get_installed_time() in C:\laragon\www\eleccionperfecta\wp-content\plugins\pro-elements\core\admin\admin.php:247
+Stack trace:
+#0 C:\laragon\www\eleccionperfecta\wp-includes\class-wp-hook.php(310): ElementorPro\Core\Admin\Admin->change_tracker_params(Array)
+#1 C:\laragon\www\eleccionperfecta\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\laragon\www\eleccionperfecta\wp-content\plugins\elementor\includes\tracker.php(563): apply_filters('elementor/track...', Array)
+#3 C:\laragon\www\eleccionperfecta\wp-content\plugins\elementor\includes\tracker.php(141): Elementor\Tracker::get_tracking_data(true)
+#4 C:\laragon\www\eleccionperfecta\wp-content\plugins\elementor\includes\tracker.php(222): Elementor\Tracker::send_tracking_data(true)
+#5 C:\laragon\www\eleccionperfecta\wp-content\plugins\elementor\core\common\modules\connect\apps\base-app.php(212): Elementor\Tracker::set_opt_in(true)
+#6 [internal function]: Elementor\Core\Common\Modules\Connect\Apps\Base_App->action_get_token()
+#7 C:\laragon\www\eleccionperfecta\wp-content\plugins\elementor\core\common\modules\connect\admin.php(57): call_user_func(Array)
+#8 C:\laragon\www\eleccionperfecta\wp-includes\class-wp-hook.php(310): Elementor\Core\Common\Modules\Connect\Admin->on_load_page('')
+#9 C:\laragon\www\eleccionperfecta\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#10 C:\laragon\www\eleccionperfecta\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#11 C:\laragon\www\eleccionperfecta\wp-admin\admin.php(237): do_action('load-elementor_...')
+#12 {main}
+  thrown у C:\laragon\www\eleccionperfecta\wp-content\plugins\pro-elements\core\admin\admin.php доступно 247
+
