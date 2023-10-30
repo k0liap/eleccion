@@ -45,7 +45,7 @@ $sidebar_right = ! isset( $value['sidebar-right'] ) ? '-1' : $value['sidebar-rig
 				</select>
 			</div>
 		</div>
-		<div class="side" style="clear: both">
+		<div class="side" style="display: none;">
 			<div class="yith-plugin-fw-sidebar-layout-sidebar-right-container select-mask"
 				<?php if ( ! in_array( $layout, array( 'sidebar-double', 'sidebar-right' ), true ) ) : ?>
 					style="display:none"

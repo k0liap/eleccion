@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: XStore Core\n"
 "POT-Creation-Date: 2023-10-20 20:16+0300\n"
-"PO-Revision-Date: 2023-10-25 10:29+0000\n"
+"PO-Revision-Date: 2023-10-29 15:00+0000\n"
 "Last-Translator: \n"
 "Language-Team: Українська\n"
 "MIME-Version: 1.0\n"
@@ -59,7 +59,7 @@ msgstr ""
 #: app/models/customizer/theme-options/product-single-builder/product_wishlist.php:96
 #: app/models/customizer/theme-options/wishlist/wishlist.php:123
 msgid "\"Add to wishlist\" text"
-msgstr ""
+msgstr "\"Добавити в список бажань\" текст"
 
 #: app/controllers/elementor/theme-builder/woocommerce/single-product/advanced-stock-status.php:186
 msgid "\"Available\" text"
@@ -1112,11 +1112,11 @@ msgstr ""
 
 #: packages/xstore-wishlist/xstore-wishlist.php:1566
 msgid "Add to my wishlist"
-msgstr ""
+msgstr "Добавити в мій список бажань"
 
 #: packages/xstore-wishlist/xstore-wishlist.php:114
 msgid "Add to Wishlist"
-msgstr ""
+msgstr "Добавити в список бажань"
 
 #: app/controllers/elementor/theme-builder/woocommerce/single-product/wishlist.php:145
 #: app/models/customizer/functions.php:4012
@@ -1132,7 +1132,7 @@ msgstr ""
 #: packages/xstore-wishlist/xstore-wishlist.php:1193
 #: packages/xstore-wishlist/xstore-wishlist.php:1210
 msgid "Add to wishlist"
-msgstr ""
+msgstr "Добавити в список бажань"
 
 #: app/models/sales-booster/features/safe_checkout.php:144
 msgid "Add tooltips for payments"
@@ -8591,7 +8591,7 @@ msgstr ""
 
 #: app/controllers/top-bar-menu.php:57
 msgid "Dashboard"
-msgstr "Панель"
+msgstr ""
 
 #: app/models/overview/template-parts/html-overview.php:92
 msgctxt "Dashboard Overview Widget Recently Date"
@@ -18323,7 +18323,7 @@ msgstr ""
 
 #: app/models/customizer/functions.php:968
 msgid "My Account"
-msgstr "Мій акаунт"
+msgstr ""
 
 #: app/models/customizer/theme-options/global/callbacks.php:2136
 #: app/models/customizer/theme-options/global/callbacks.php:3144
@@ -18331,11 +18331,11 @@ msgstr "Мій акаунт"
 #: app/models/customizer/theme-options/header-builder/account.php:493
 #: app/models/customizer/theme-options/header-builder/account.php:505
 msgid "My account"
-msgstr "Мій акаунт"
+msgstr ""
 
 #: app/models/customizer/theme-options/header-builder/account.php:490
 msgid "My account text"
-msgstr "Мій акаунт"
+msgstr ""
 
 #: app/models/customizer/theme-options/global/callbacks.php:2070
 msgid "My compare"

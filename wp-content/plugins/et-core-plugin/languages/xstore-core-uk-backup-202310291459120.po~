@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: XStore Core\n"
 "POT-Creation-Date: 2023-10-20 20:16+0300\n"
-"PO-Revision-Date: 2023-10-25 09:31+0000\n"
+"PO-Revision-Date: 2023-10-29 14:58+0000\n"
 "Last-Translator: \n"
 "Language-Team: Українська\n"
 "MIME-Version: 1.0\n"
@@ -18702,7 +18702,7 @@ msgstr ""
 
 #: app/controllers/top-bar-menu.php:57
 msgid "Dashboard"
-msgstr "Панель"
+msgstr ""
 
 #: app/controllers/top-bar-menu.php:67 packages/cmb2/example-functions.php:686
 msgid "Theme Options"

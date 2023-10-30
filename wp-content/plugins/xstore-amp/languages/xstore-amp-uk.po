@@ -1,0 +1,1218 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"Project-Id-Version: XStore AMP\n"
+"POT-Creation-Date: 2023-04-03 12:51+0300\n"
+"PO-Revision-Date: 2023-10-29 15:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: Українська\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: xstore-amp.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: uk\n"
+"X-Loco-Version: 2.6.6; wp-6.3.2"
+
+#: admin/init.php:54 admin/init.php:55 admin/init.php:91 admin/init.php:1788
+#: admin/init.php:1817
+msgid "AMP XStore"
+msgstr ""
+
+#: admin/init.php:93
+msgid "Welcome to the AMP XStore panel!"
+msgstr ""
+
+#: admin/init.php:96
+msgid "General"
+msgstr ""
+
+#: admin/init.php:97
+msgid "Appearance"
+msgstr ""
+
+#: admin/init.php:98
+msgid "Home Page"
+msgstr ""
+
+#: admin/init.php:99 admin/init.php:1401
+msgid "Mobile panel"
+msgstr ""
+
+#: admin/init.php:100 admin/init.php:466
+msgid "Footer"
+msgstr ""
+
+#: admin/init.php:101
+msgid "Advanced"
+msgstr ""
+
+#: admin/init.php:102 admin/init.php:1769
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/init.php:113 admin/init.php:125 admin/init.php:137 admin/init.php:149
+#: admin/init.php:162 admin/init.php:175 admin/init.php:188
+#: includes/templates/woocommerce/myaccount/form-edit-account.php:69
+msgid "Save changes"
+msgstr ""
+
+#: admin/init.php:202
+msgid "Select item"
+msgstr ""
+
+#: admin/init.php:223
+msgid "Sticky header"
+msgstr ""
+
+#: admin/init.php:231
+msgid "Upload custom logo"
+msgstr ""
+
+#: admin/init.php:239
+msgid "Upload custom logo (dark version)"
+msgstr ""
+
+#: admin/init.php:247
+msgid "Upload favicon"
+msgstr ""
+
+#: admin/init.php:253 admin/init.php:1440
+msgid "Select menu"
+msgstr ""
+
+#: admin/init.php:254
+msgid "Select menu for mobile sidebar."
+msgstr ""
+
+#: admin/init.php:261
+msgid "Header search"
+msgstr ""
+
+#: admin/init.php:269
+msgid "Trending searches title"
+msgstr ""
+
+#: admin/init.php:272 includes/templates/header/parts/search_form.php:65
+msgid "Trending searches"
+msgstr ""
+
+#: admin/init.php:279
+msgid "Search tags"
+msgstr ""
+
+#: admin/init.php:280
+msgid "Please, write values with comma separator"
+msgstr ""
+
+#: admin/init.php:287
+msgid "Search results"
+msgstr ""
+
+#: admin/init.php:291 includes/handles/ajax-search.php:229
+#: includes/templates/header/parts/search_form.php:129
+msgid "Products"
+msgstr ""
+
+#: admin/init.php:294 includes/templates/header/parts/search_form.php:126
+msgid "Posts"
+msgstr ""
+
+#: admin/init.php:310
+msgid "Back to top"
+msgstr ""
+
+#: admin/init.php:318
+msgid "Dark version"
+msgstr ""
+
+#: admin/init.php:325
+msgid "Dark/Light switcher"
+msgstr ""
+
+#: admin/init.php:335
+msgid "Text color"
+msgstr ""
+
+#: admin/init.php:341
+msgid "Headings color"
+msgstr ""
+
+#: admin/init.php:348
+msgid "Select font family"
+msgstr ""
+
+#: admin/init.php:349
+msgid "This font family will be used on your site."
+msgstr ""
+
+#: admin/init.php:357
+msgid "Active color"
+msgstr ""
+
+#: admin/init.php:362
+msgid "Buttons"
+msgstr ""
+
+#: admin/init.php:368
+msgid "Buttons background color"
+msgstr ""
+
+#: admin/init.php:375
+msgid "Buttons color"
+msgstr ""
+
+#: admin/init.php:382
+msgid "Header"
+msgstr ""
+
+#: admin/init.php:388 admin/init.php:1501
+msgid "Min-height (px)"
+msgstr ""
+
+#: admin/init.php:400
+msgid "Header background color"
+msgstr ""
+
+#: admin/init.php:408
+msgid "Header color"
+msgstr ""
+
+#: admin/init.php:416
+msgid "Mobile menu"
+msgstr ""
+
+#: admin/init.php:422
+msgid "Mobile menu icon color"
+msgstr ""
+
+#: admin/init.php:430
+msgid "Mobile menu icon background color"
+msgstr ""
+
+#: admin/init.php:438
+msgid "Mobile menu background color"
+msgstr ""
+
+#: admin/init.php:446
+msgid "Mobile menu color"
+msgstr ""
+
+#: admin/init.php:454 admin/init.php:1489
+msgid "Content zoom (%)"
+msgstr ""
+
+#: admin/init.php:472
+msgid "Footer background color"
+msgstr ""
+
+#: admin/init.php:480
+msgid "Footer color"
+msgstr ""
+
+#: admin/init.php:488
+msgid "Copyrights"
+msgstr ""
+
+#: admin/init.php:494
+msgid "Copyrights background color"
+msgstr ""
+
+#: admin/init.php:502
+msgid "Copyrights color"
+msgstr ""
+
+#: admin/init.php:520
+msgid "Main slider"
+msgstr ""
+
+#: admin/init.php:529
+msgid "Product categories 01"
+msgstr ""
+
+#: admin/init.php:536 admin/init.php:578
+msgid "Product categories title"
+msgstr ""
+
+#: admin/init.php:539 admin/init.php:581 xstore-amp.php:1422
+msgid "Product categories"
+msgstr ""
+
+#: admin/init.php:547 admin/init.php:589 admin/init.php:649 admin/init.php:708
+#: admin/init.php:768 admin/init.php:828 admin/init.php:885 admin/init.php:941
+msgid "Order"
+msgstr ""
+
+#: admin/init.php:550 admin/init.php:592 admin/init.php:652 admin/init.php:711
+#: admin/init.php:771 admin/init.php:831 admin/init.php:888 admin/init.php:944
+msgid "ASC"
+msgstr ""
+
+#: admin/init.php:551 admin/init.php:593 admin/init.php:653 admin/init.php:712
+#: admin/init.php:772 admin/init.php:832 admin/init.php:889 admin/init.php:945
+msgid "DESC"
+msgstr ""
+
+#: admin/init.php:561 admin/init.php:603 admin/init.php:663 admin/init.php:722
+#: admin/init.php:782 admin/init.php:842 admin/init.php:899 admin/init.php:955
+msgid "Limit"
+msgstr ""
+
+#: admin/init.php:571
+msgid "Product categories 02"
+msgstr ""
+
+#: admin/init.php:614
+msgid "Products 01"
+msgstr ""
+
+#: admin/init.php:621 admin/init.php:680 admin/init.php:740 admin/init.php:800
+msgid "Products title"
+msgstr ""
+
+#: admin/init.php:624 admin/init.php:683 admin/init.php:743 admin/init.php:803
+#: xstore-amp.php:1486
+msgid "Hot Products"
+msgstr ""
+
+#: admin/init.php:632 admin/init.php:691 admin/init.php:751 admin/init.php:811
+#: admin/init.php:871 admin/init.php:927
+msgid "Type"
+msgstr ""
+
+#: admin/init.php:635 admin/init.php:694 admin/init.php:754 admin/init.php:814
+msgid "Recently viewed"
+msgstr ""
+
+#: admin/init.php:636 admin/init.php:695 admin/init.php:755 admin/init.php:815
+msgid "Featured"
+msgstr ""
+
+#: admin/init.php:637 admin/init.php:696 admin/init.php:756 admin/init.php:816
+msgid "Sale"
+msgstr ""
+
+#: admin/init.php:638 admin/init.php:697 admin/init.php:757 admin/init.php:817
+msgid "Bestsellings"
+msgstr ""
+
+#: admin/init.php:639 admin/init.php:698 admin/init.php:758 admin/init.php:818
+#: admin/init.php:875 admin/init.php:931
+msgid "Random"
+msgstr ""
+
+#: admin/init.php:673
+msgid "Products 02"
+msgstr ""
+
+#: admin/init.php:733
+msgid "Products 03"
+msgstr ""
+
+#: admin/init.php:793
+msgid "Products 04"
+msgstr ""
+
+#: admin/init.php:853
+msgid "Posts 01"
+msgstr ""
+
+#: admin/init.php:860 admin/init.php:916
+msgid "Posts title"
+msgstr ""
+
+#: admin/init.php:863 admin/init.php:919 xstore-amp.php:1361
+msgid "Latest posts"
+msgstr ""
+
+#: admin/init.php:874 admin/init.php:930
+msgid "Popular"
+msgstr ""
+
+#: admin/init.php:909
+msgid "Posts 02"
+msgstr ""
+
+#: admin/init.php:966
+msgid "Banner 01"
+msgstr ""
+
+#: admin/init.php:973 admin/init.php:1033 admin/init.php:1094
+msgid "Max-Height (px)"
+msgstr ""
+
+#: admin/init.php:987 admin/init.php:1047 admin/init.php:1108
+msgid "Upload image"
+msgstr ""
+
+#: admin/init.php:988 admin/init.php:1048 admin/init.php:1109
+msgid "Use this option to upload banner image"
+msgstr ""
+
+#: admin/init.php:996 admin/init.php:1056 admin/init.php:1117
+#: xstore-amp.php:1133
+msgid "Banner title"
+msgstr ""
+
+#: admin/init.php:1004 admin/init.php:1064 admin/init.php:1125
+#: xstore-amp.php:1134
+msgid "Banner content"
+msgstr ""
+
+#: admin/init.php:1012 admin/init.php:1072 admin/init.php:1133
+#: admin/init.php:1231 admin/init.php:1319
+msgid "Button text"
+msgstr ""
+
+#: admin/init.php:1020 admin/init.php:1080 admin/init.php:1141
+#: admin/init.php:1239 admin/init.php:1327
+msgid "Button url"
+msgstr ""
+
+#: admin/init.php:1026
+msgid "Banner 02"
+msgstr ""
+
+#: admin/init.php:1087
+msgid "Banner 03"
+msgstr ""
+
+#: admin/init.php:1148
+msgid "Textarea block 01"
+msgstr ""
+
+#: admin/init.php:1155 admin/init.php:1184 admin/init.php:1518
+msgid "Title"
+msgstr ""
+
+#: admin/init.php:1158 admin/init.php:1187 xstore-amp.php:1188
+msgid "About us"
+msgstr ""
+
+#: admin/init.php:1166 admin/init.php:1195 admin/init.php:1527
+msgid "Content"
+msgstr ""
+
+#: admin/init.php:1177
+msgid "Textarea block 02"
+msgstr ""
+
+#: admin/init.php:1223 admin/init.php:1311
+msgid "Image"
+msgstr ""
+
+#: admin/init.php:1247 admin/init.php:1335
+msgid "Slide title"
+msgstr ""
+
+#: admin/init.php:1255 admin/init.php:1343
+msgid "Slide content"
+msgstr ""
+
+#: admin/init.php:1263 admin/init.php:1351
+msgid "Content horizontal alignment"
+msgstr ""
+
+#: admin/init.php:1266 admin/init.php:1281 admin/init.php:1354
+#: admin/init.php:1368
+msgid "Start"
+msgstr ""
+
+#: admin/init.php:1267 admin/init.php:1355
+msgid "Center"
+msgstr ""
+
+#: admin/init.php:1268 admin/init.php:1283 admin/init.php:1356
+#: admin/init.php:1370
+msgid "End"
+msgstr ""
+
+#: admin/init.php:1278 admin/init.php:1365
+msgid "Content vertical alignment"
+msgstr ""
+
+#: admin/init.php:1282 admin/init.php:1369
+msgid "Middle"
+msgstr ""
+
+#: admin/init.php:1293 admin/init.php:1379
+msgid "Content max-width (%)"
+msgstr ""
+
+#: admin/init.php:1409
+msgid "Mobile panel elements"
+msgstr ""
+
+#: admin/init.php:1413 includes/templates/mobile-panel.php:61
+msgid "Home"
+msgstr ""
+
+#: admin/init.php:1416 includes/templates/mobile-panel.php:57
+msgid "Shop"
+msgstr ""
+
+#: admin/init.php:1419 includes/templates/mobile-panel.php:58
+msgid "Blog"
+msgstr ""
+
+#: admin/init.php:1422 includes/templates/mobile-panel.php:60
+msgid "Cart"
+msgstr ""
+
+#: admin/init.php:1425 includes/templates/mobile-panel.php:62
+msgid "Account"
+msgstr ""
+
+#: admin/init.php:1429 includes/templates/header/parts/search_form.php:135
+#: includes/templates/mobile-panel.php:59
+msgid "Portfolio"
+msgstr ""
+
+#: admin/init.php:1433 includes/templates/mobile-panel.php:63
+msgid "Menu"
+msgstr ""
+
+#: admin/init.php:1441
+msgid "Select menu for mobile panel menu."
+msgstr ""
+
+#: admin/init.php:1459
+msgid "Mobile panel styles"
+msgstr ""
+
+#: admin/init.php:1473
+msgid "Mobile panel background color"
+msgstr ""
+
+#: admin/init.php:1481
+msgid "Mobile panel color"
+msgstr ""
+
+#: admin/init.php:1521
+msgid "Find us"
+msgstr ""
+
+#: admin/init.php:1537
+msgid "Socials"
+msgstr ""
+
+#: admin/init.php:1547 admin/init.php:1593 admin/init.php:1639
+#: admin/init.php:1685
+msgid "Select social"
+msgstr ""
+
+#: admin/init.php:1578 admin/init.php:1624 admin/init.php:1670
+#: admin/init.php:1715
+msgid "Link"
+msgstr ""
+
+#: admin/init.php:1724
+msgid "Copyrights content"
+msgstr ""
+
+#: admin/init.php:1726 includes/templates/footer.php:74
+msgid "Ⓒ Created by 8theme - Power Elite ThemeForest Author."
+msgstr ""
+
+#: admin/init.php:1732
+msgid "Link to non AMP version"
+msgstr ""
+
+#: admin/init.php:1742
+msgid "Enable Google Analytics"
+msgstr ""
+
+#: admin/init.php:1750
+msgid "Gtag ID"
+msgstr ""
+
+#: admin/init.php:1751
+msgid "Please, enter a valid ID"
+msgstr ""
+
+#: admin/init.php:1812
+msgid "new"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:359
+msgid "Coupon was not applied"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:375
+msgid "Coupon code is empty"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:390
+msgid "Coupon applied!"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:392
+msgid "Coupon applied! Please refresh the page now"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:443 includes/actions/ajax-actions.php:1092
+msgid "Please enter a valid postcode / ZIP."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:461
+msgid "Shipping costs updated."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:487
+msgid "Shipping is changed!"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:489
+msgid "Shipping is changed! Please refresh the page now"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:501
+msgid "Error"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:652 includes/actions/ajax-actions.php:744
+#: includes/actions/ajax-actions.php:873 includes/actions/ajax-actions.php:965
+msgid "Please choose product options"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:675 includes/actions/ajax-actions.php:896
+#: includes/templates/woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:729 includes/actions/ajax-actions.php:950
+#, php-format
+msgid "%1s Your product has been %2s successfully added to cart!%3s"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:732 includes/actions/ajax-actions.php:953
+msgid "View cart"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:744 includes/actions/ajax-actions.php:965
+msgid "Error while adding to cart"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:994 includes/actions/ajax-actions.php:1212
+#: includes/actions/ajax-actions.php:1429
+#: includes/actions/ajax-actions.php:1544
+#: includes/actions/ajax-actions.php:1662
+#: includes/actions/ajax-actions.php:1713
+msgid "Success"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1000
+msgid "Not requested method"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1013
+#: includes/actions/ajax-actions.php:1204
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1025
+msgid "Not an authorized user."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1036
+msgid "Not a woocommerce authorized user."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1075
+#: includes/actions/ajax-actions.php:1270
+#, php-format
+msgid "%s is a required field."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1103
+#, php-format
+msgid "%s is not a valid phone number."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1114
+#, php-format
+msgid "%s is not a valid email address."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1171
+msgid "Success. Please, refresh page to see changes"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1222
+msgid "User is not valid."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1252
+msgid "Display name cannot be changed to email address due to privacy concern."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1260
+#: includes/templates/woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1261
+#: includes/templates/woocommerce/myaccount/form-edit-account.php:31
+msgid "Last name"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1262
+#: includes/templates/woocommerce/myaccount/form-edit-account.php:37
+msgid "Display name"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1263
+#: includes/templates/woocommerce/myaccount/form-edit-account.php:43
+#: includes/templates/woocommerce/myaccount/form-login.php:117
+msgid "Email address"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1281
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1287
+msgid "This email address is already registered."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1297
+msgid "Please fill out all password fields."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1304
+msgid "Please enter your current password."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1311
+msgid "Please re-enter your password."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1318
+msgid "New passwords do not match."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1325
+msgid "Your current password is incorrect."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1396
+msgid "Account details changed successfully."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1445
+#: includes/actions/ajax-actions.php:1454
+#: includes/actions/ajax-actions.php:1569
+#: includes/actions/ajax-actions.php:1632
+msgid "Error:"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1454
+msgid "Username is required."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1501
+#: includes/actions/ajax-actions.php:1622
+#: includes/actions/ajax-actions.php:1689
+msgid "Click on next link to go in your account"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1502
+#: includes/actions/ajax-actions.php:1623
+#: includes/actions/ajax-actions.php:1690
+msgid "My Account"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1592
+msgid ""
+"Your account was created successfully and a password has been sent to your "
+"email address."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1594
+msgid ""
+"Your account was created successfully. Your login details have been sent to "
+"your email address."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1723
+msgid "Enter a username or email address."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1754
+#: includes/actions/ajax-actions.php:1763
+msgid "Invalid username or email."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1781
+msgid "Password reset is not allowed for this user."
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1856
+msgid "No results were found"
+msgstr ""
+
+#: includes/actions/ajax-actions.php:1857
+#, php-format
+msgid "No items matched your search %s."
+msgstr ""
+
+#: includes/actions/filters.php:232
+msgid "Placeholder"
+msgstr ""
+
+#: includes/actions/filters.php:378
+msgid "Type here..."
+msgstr ""
+
+#: includes/actions/filters.php:383
+msgid "Search"
+msgstr ""
+
+#: includes/actions/global.php:184
+#, php-format
+msgctxt "Item name in quotes"
+msgid "&ldquo;%s&rdquo;"
+msgstr ""
+
+#: includes/actions/global.php:184 includes/templates/mobile-panel.php:87
+msgid "Item"
+msgstr ""
+
+#: includes/actions/global.php:189 includes/actions/global.php:193
+#, php-format
+msgid "%s removed."
+msgstr ""
+
+#: includes/actions/global.php:190
+msgid "Undo?"
+msgstr ""
+
+#: includes/actions/global.php:482
+msgid "Filters"
+msgstr ""
+
+#: includes/actions/global.php:714
+msgctxt "Search results page - products found text"
+msgid "Product found"
+msgid_plural "Products found"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/actions/global.php:761
+msgctxt "Search results page - posts found text"
+msgid "Post found"
+msgid_plural "Posts found"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/actions/global.php:1065
+#: includes/templates/header/parts/cart_sidebar.php:19
+msgid "Shopping Cart"
+msgstr ""
+
+#: includes/actions/global.php:1066
+msgid "Checkout"
+msgstr ""
+
+#: includes/templates/404.php:16
+msgid "That Page Can't Be Found"
+msgstr ""
+
+#: includes/templates/404.php:17
+msgid "Go to home"
+msgstr ""
+
+#: includes/templates/archive.php:29
+msgid "No posts were found!"
+msgstr ""
+
+#: includes/templates/archive.php:31
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords"
+msgstr ""
+
+#: includes/templates/content-grid.php:66
+#: includes/templates/content-portfolio.php:48
+msgid "Continue reading"
+msgstr ""
+
+#: includes/templates/extra/dark-light-switcher.php:40
+msgid "Light"
+msgstr ""
+
+#: includes/templates/extra/dark-light-switcher.php:41
+msgid "Dark"
+msgstr ""
+
+#: includes/templates/footer.php:27
+msgid "Find us:"
+msgstr ""
+
+#: includes/templates/footer.php:88
+msgid "View non-AMP version"
+msgstr ""
+
+#: includes/templates/header/parts/search_form.php:40
+msgid "Search your products"
+msgstr ""
+
+#: includes/templates/header/parts/search_form.php:40
+msgid "Search your posts"
+msgstr ""
+
+#: includes/templates/header/parts/search_form.php:132
+msgid "Pages"
+msgstr ""
+
+#: includes/templates/header/parts/search_form.php:182
+msgid "In stock"
+msgstr ""
+
+#: includes/templates/header/parts/search_form.php:185
+msgid "Out of stock"
+msgstr ""
+
+#: includes/templates/single.php:45
+msgid "Tags: "
+msgstr ""
+
+#: includes/templates/single.php:48
+#: includes/templates/woocommerce/single-product-reviews.php:64
+msgid "Write a review"
+msgstr ""
+
+#: includes/templates/woocommerce/cart/cart-empty.php:24
+msgid "Твій кошик порожній :("
+msgstr ""
+
+#: includes/templates/woocommerce/cart/cart-empty.php:25
+msgid ""
+"We invite you to get acquainted with an assortment of our shop. Surely you "
+"can find something for yourself!"
+msgstr ""
+
+#: includes/templates/woocommerce/cart/cart-empty.php:35
+msgid "Return to shop"
+msgstr ""
+
+#: includes/templates/woocommerce/cart/cart.php:19
+msgid "product"
+msgid_plural "products"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/templates/woocommerce/cart/cart.php:68
+msgid "Available on backorder"
+msgstr ""
+
+#: includes/templates/woocommerce/cart/cart.php:105
+#: includes/templates/woocommerce/cart/mini-cart.php:52
+msgid "Remove this item"
+msgstr ""
+
+#: includes/templates/woocommerce/cart/cart.php:108
+msgid "Remove item"
+msgstr ""
+
+#: includes/templates/woocommerce/cart/cart.php:127
+#: includes/templates/woocommerce/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr ""
+
+#: includes/templates/woocommerce/cart/cart.php:127
+#: includes/templates/woocommerce/checkout/form-coupon.php:35
+msgid "Apply"
+msgstr ""
+
+#: includes/templates/woocommerce/cart/cart.php:131
+msgid "Update cart"
+msgstr ""
+
+#: includes/templates/woocommerce/cart/cross-sells.php:19
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: includes/templates/woocommerce/cart/mini-cart.php:104
+msgid "No products in the cart."
+msgstr ""
+
+#: includes/templates/woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: includes/templates/woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: includes/templates/woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: includes/templates/woocommerce/content-widget-reviews.php:31
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: includes/templates/woocommerce/global/quantity-input.php:31
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: includes/templates/woocommerce/global/quantity-input.php:31
+msgid "Quantity"
+msgstr ""
+
+#: includes/templates/woocommerce/global/quantity-input.php:47
+msgid "Quantity:"
+msgstr ""
+
+#: includes/templates/woocommerce/global/quantity-input.php:61
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: includes/templates/woocommerce/loop/orderby.php:19
+msgid "Shop order"
+msgstr ""
+
+#: includes/templates/woocommerce/loop/result-count.php:22
+msgid "1 result"
+msgstr ""
+
+#: includes/templates/woocommerce/loop/result-count.php:25
+#, php-format
+msgid "%d Result"
+msgid_plural "%d Results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/templates/woocommerce/loop/result-count.php:30
+#, php-format
+msgctxt "with first and last result"
+msgid "%1$d&ndash;%2$d of %3$d"
+msgid_plural "%1$d&ndash;%2$d of %3$d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/templates/woocommerce/myaccount/form-edit-account.php:38
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-edit-account.php:48
+msgid "Password change"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-edit-account.php:51
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-edit-account.php:55
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-edit-account.php:59
+msgid "Confirm new password"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-edit-address.php:27
+msgid "Billing address"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-edit-address.php:27
+msgid "Shipping address"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-edit-address.php:65
+msgid "Save address"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-login.php:40
+msgid "Login"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-login.php:45
+#: includes/templates/woocommerce/myaccount/form-login.php:138
+msgid "Register"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-login.php:63
+msgid "Username or email address"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-login.php:67
+#: includes/templates/woocommerce/myaccount/form-login.php:124
+msgid "Password"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-login.php:75
+msgid "Remember me"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-login.php:78
+msgid "Log in"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-login.php:81
+msgid "Lost your password?"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-login.php:110
+msgid "Username"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-login.php:130
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-lost-password.php:25
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/form-lost-password.php:38
+msgid "Reset password"
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/lost-password-confirmation.php:15
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: includes/templates/woocommerce/myaccount/lost-password-confirmation.php:20
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: includes/templates/woocommerce/single-product-reviews.php:29
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/templates/woocommerce/single-product-reviews.php:32
+msgid "Reviews"
+msgstr ""
+
+#: includes/templates/woocommerce/single-product-reviews.php:59
+msgid "There are no reviews yet."
+msgstr ""
+
+#: includes/templates/woocommerce/single-product-reviews.php:66
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: includes/templates/woocommerce/single-product/add-to-cart/variable.php:33
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: includes/templates/woocommerce/single-product/add-to-cart/variable.php:49
+msgid "Choose an option"
+msgstr ""
+
+#: includes/templates/woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: includes/templates/woocommerce/single-product/meta.php:27
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/templates/woocommerce/single-product/meta.php:29
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/templates/woocommerce/single-product/rating.php:31
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/templates/woocommerce/single-product/related.php:21
+msgid "Related products"
+msgstr ""
+
+#: includes/templates/woocommerce/single-product/sticky-cart.php:27
+msgid "Buy now"
+msgstr ""
+
+#: includes/templates/woocommerce/single-product/up-sells.php:21
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: xstore-amp.php:65
+msgid "View XStore AMP settings"
+msgstr ""
+
+#: xstore-amp.php:65
+msgid "Settings"
+msgstr ""
+
+#: xstore-amp.php:316
+msgid "View AMP version"
+msgstr ""
+
+#: xstore-amp.php:376
+msgid "AMP Shop Sidebar"
+msgstr ""
+
+#: xstore-amp.php:378
+msgid "Shop page amp widget area"
+msgstr ""
+
+#: xstore-amp.php:926
+msgid "at"
+msgstr ""
+
+#: xstore-amp.php:930
+msgid "by"
+msgstr ""
+
+#: xstore-amp.php:1135
+msgid "Button"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "XStore AMP"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://8theme.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "8theme AMP Plugin for XStore theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "8theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://xstore.8theme.com"
+msgstr ""

@@ -1,0 +1,50 @@
+2023-10-29T22:19:22+00:00 CRITICAL Uncaught TypeError: strstr(): Argument #1 ($haystack) must be of type string, WP_Error given in C:\laragon\www\eleccionperfecta\wp-includes\functions.php:1144
+Stack trace:
+#0 C:\laragon\www\eleccionperfecta\wp-includes\functions.php(1144): strstr(Object(WP_Error), '#')
+#1 C:\laragon\www\eleccionperfecta\wp-includes\functions.php(1217): add_query_arg('view_mode', false, Object(WP_Error))
+#2 C:\laragon\www\eleccionperfecta\wp-content\themes\xstore\framework\woo.php(2634): remove_query_arg('view_mode', Object(WP_Error))
+#3 C:\laragon\www\eleccionperfecta\wp-includes\class-wp-hook.php(310): etheme_grid_list_switcher('')
+#4 C:\laragon\www\eleccionperfecta\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#5 C:\laragon\www\eleccionperfecta\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\laragon\www\eleccionperfecta\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-products.php(646): do_action('woocommerce_bef...')
+#7 C:\laragon\www\eleccionperfecta\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#8 C:\laragon\www\eleccionperfecta\wp-content\plugins\pro-elements\modules\woocommerce\classes\base-products-renderer.php(22): WC_Shortcode_Products->get_content()
+#9 C:\laragon\www\eleccionperfecta\wp-content\plugins\pro-elements\modules\woocommerce\widgets\products.php(359): ElementorPro\Modules\Woocommerce\Classes\Base_Products_Renderer->get_content()
+#10 C:\laragon\www\eleccionperfecta\wp-content\plugins\elementor\includes\base\controls-stack.php(2265): ElementorPro\Modules\Woocommerce\Widgets\Products->render()
+#11 C:\laragon\www\eleccionperfecta\wp-content\plugins\elementor\includes\base\widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#12 C:\laragon\www\eleccionperfecta\wp-content\plugins\elementor\core\base\document.php(328): Elementor\Widget_Base->render_content()
+#13 C:\laragon\www\eleccionperfecta\wp-content\plugins\elementor\includes\managers\widgets.php(445): Elementor\Core\Base\Document->render_element(Array)
+#14 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#15 C:\laragon\www\eleccionperfecta\wp-content\plugins\elementor\core\common\modules\ajax\module.php(175): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#16 C:\laragon\www\eleccionperfecta\wp-includes\class-wp-hook.php(310): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#17 C:\laragon\www\eleccionperfecta\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#18 C:\laragon\www\eleccionperfecta\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#19 C:\laragon\www\eleccionperfecta\wp-admin\admin-ajax.php(188): do_action('wp_ajax_element...')
+#20 {main}
+  thrown у C:\laragon\www\eleccionperfecta\wp-includes\functions.php доступно 1144
+
+2023-10-29T22:19:26+00:00 CRITICAL Uncaught TypeError: strstr(): Argument #1 ($haystack) must be of type string, WP_Error given in C:\laragon\www\eleccionperfecta\wp-includes\functions.php:1144
+Stack trace:
+#0 C:\laragon\www\eleccionperfecta\wp-includes\functions.php(1144): strstr(Object(WP_Error), '#')
+#1 C:\laragon\www\eleccionperfecta\wp-includes\functions.php(1217): add_query_arg('view_mode', false, Object(WP_Error))
+#2 C:\laragon\www\eleccionperfecta\wp-content\themes\xstore\framework\woo.php(2634): remove_query_arg('view_mode', Object(WP_Error))
+#3 C:\laragon\www\eleccionperfecta\wp-includes\class-wp-hook.php(310): etheme_grid_list_switcher('')
+#4 C:\laragon\www\eleccionperfecta\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#5 C:\laragon\www\eleccionperfecta\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\laragon\www\eleccionperfecta\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-products.php(646): do_action('woocommerce_bef...')
+#7 C:\laragon\www\eleccionperfecta\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#8 C:\laragon\www\eleccionperfecta\wp-content\plugins\pro-elements\modules\woocommerce\classes\base-products-renderer.php(22): WC_Shortcode_Products->get_content()
+#9 C:\laragon\www\eleccionperfecta\wp-content\plugins\pro-elements\modules\woocommerce\widgets\products.php(359): ElementorPro\Modules\Woocommerce\Classes\Base_Products_Renderer->get_content()
+#10 C:\laragon\www\eleccionperfecta\wp-content\plugins\elementor\includes\base\controls-stack.php(2265): ElementorPro\Modules\Woocommerce\Widgets\Products->render()
+#11 C:\laragon\www\eleccionperfecta\wp-content\plugins\elementor\includes\base\widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#12 C:\laragon\www\eleccionperfecta\wp-content\plugins\elementor\core\base\document.php(328): Elementor\Widget_Base->render_content()
+#13 C:\laragon\www\eleccionperfecta\wp-content\plugins\elementor\includes\managers\widgets.php(445): Elementor\Core\Base\Document->render_element(Array)
+#14 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#15 C:\laragon\www\eleccionperfecta\wp-content\plugins\elementor\core\common\modules\ajax\module.php(175): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#16 C:\laragon\www\eleccionperfecta\wp-includes\class-wp-hook.php(310): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#17 C:\laragon\www\eleccionperfecta\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#18 C:\laragon\www\eleccionperfecta\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#19 C:\laragon\www\eleccionperfecta\wp-admin\admin-ajax.php(188): do_action('wp_ajax_element...')
+#20 {main}
+  thrown у C:\laragon\www\eleccionperfecta\wp-includes\functions.php доступно 1144
+

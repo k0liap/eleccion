@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: XStore\n"
 "POT-Creation-Date: 2023-10-24 18:09+0000\n"
-"PO-Revision-Date: 2023-10-25 10:14+0000\n"
+"PO-Revision-Date: 2023-10-26 06:08+0000\n"
 "Last-Translator: \n"
 "Language-Team: Українська\n"
 "MIME-Version: 1.0\n"
@@ -34,66 +34,70 @@ msgid ""
 "theme's requirements. You can handle these adjustments yourself or reach out "
 "to your hosting provider to request increases in the following minimums."
 msgstr ""
+"Перш ніж використовувати тему, переконайтеся, що ваш сервер і WordPress "
+"відповідають вимогам теми. Ви можете впоратися з цими коригуваннями "
+"самостійно або звернутися до свого хостинг-провайдера, щоб вимагати "
+"підвищення наступних мінімумів."
 
 #: framework/panel/templates/popup-theme-registration.php:72
 msgid " does not match our live domain patterns."
-msgstr ""
+msgstr "не збігається з нашими живими шаблонами домену"
 
 #: framework/panel/templates/popup-theme-registration.php:53
 msgid " does not match our staging domain patterns."
-msgstr ""
+msgstr "не відповідає нашим шаблонам проміжного домену."
 
 #: framework/panel/templates/popup-theme-deregister.php:31
 msgid " for assistance."
-msgstr ""
+msgstr "за допомогу"
 
 #: framework/custom-metaboxes.php:390
 msgid " Inherit"
-msgstr ""
+msgstr "Успадкувати"
 
 #: framework/customizer/theme-options/woocommerce/single-product/compare.php:61
 msgid "\"Add to compare\" text"
-msgstr ""
+msgstr "«Додати до порівняння»."
 
 #: framework/customizer/theme-options/woocommerce/single-product/wishlist.php:61
 msgid "\"Add to wishlist\" text"
-msgstr ""
+msgstr "«Додати до списку бажань»."
 
 #: framework/customizer/theme-options/footer/back-2-top.php:35
 msgid "\"Back To Top\" button"
-msgstr ""
+msgstr "«На початок»."
 
 #: framework/customizer/theme-options/footer/back-2-top.php:54
 msgid "\"Back To Top\" button on mobile"
-msgstr ""
+msgstr "Догори"
 
 #: framework/customizer/theme-options/woocommerce/shop-elements/shop-brands.php:195
 msgid "\"Brand\" word"
-msgstr ""
+msgstr "Бренд"
 
 #: framework/customizer/theme-options/woocommerce/single-product/compare.php:79
 msgid "\"Browse compare\" text"
-msgstr ""
+msgstr "Переглянути порівняти"
 
 #: framework/customizer/theme-options/woocommerce/single-product/wishlist.php:79
 msgid "\"Browse wishlist\" text"
-msgstr ""
+msgstr "Переглянути список бажань"
 
 #: framework/customizer/theme-options/woocommerce/single-product/layout.php:496
 msgid "\"Buy Now\" button"
-msgstr ""
+msgstr "Купити зараз"
 
 #: framework/customizer/theme-options/woocommerce/single-product/layout.php:481
 msgid "\"Buy now\" button"
-msgstr ""
+msgstr "Купити зараз"
 
 #: framework/customizer/theme-options/blog/layout.php:293
 msgid "\"Category\" label"
-msgstr ""
+msgstr "Категорія"
 
 #: framework/customizer/theme-options/woocommerce/shop/filters.php:46
 msgid "\"Filters\" columns"
-msgstr ""
+msgstr "Фільтри"
 
 #: framework/customizer/theme-options/woocommerce/shop-elements/shop-icons.php:146
 msgid "\"Hot\" label settings"
@@ -107,11 +111,11 @@ msgstr ""
 
 #: framework/customizer/theme-options/woocommerce/shop-elements/shop-quick-view.php:349
 msgid "\"More details\" length (chars)"
-msgstr ""
+msgstr "Детальніше"
 
 #: framework/customizer/theme-options/woocommerce/shop-elements/shop-quick-view.php:327
 msgid "\"More details\" toggle"
-msgstr ""
+msgstr "Детальніше"
 
 #: framework/customizer/theme-options/woocommerce/shop-elements/shop-icons.php:37
 msgid "\"New\" label settings"
@@ -127,23 +131,23 @@ msgstr ""
 
 #: framework/customizer/theme-options/woocommerce/shop-elements/shop-color-swatches.php:211
 msgid "\"Out of Stock\" design"
-msgstr ""
+msgstr "Немає в наявності"
 
 #: framework/customizer/theme-options/woocommerce/shop-elements/shop-icons.php:125
 msgid "\"Out of stock\" label settings"
-msgstr ""
+msgstr "Немає в наявності"
 
 #: framework/customizer/theme-options/woocommerce/shop-elements/shop-icons.php:135
 msgid "\"Out of stock\" product label"
-msgstr ""
+msgstr "Немає в наявності"
 
 #: framework/customizer/theme-options/breadcrumbs/breadcrumbs.php:336
 msgid "\"Return to previous page\" link"
-msgstr ""
+msgstr "Повернутися на попередню сторінку"
 
 #: framework/customizer/theme-options/breadcrumbs/breadcrumbs.php:346
 msgid "\"Return to previous page\" typeface"
-msgstr ""
+msgstr "Повернутися на попередню сторінку"
 
 #: framework/customizer/theme-options/woocommerce/shop-elements/shop-icons.php:335
 msgid "\"Sale\" & \"New\" labels border radius (%)"
@@ -178,63 +182,66 @@ msgstr ""
 #: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3637
 #, php-format
 msgid "%1$s installed and activated successfully."
-msgstr ""
+msgstr "%1$s встановлено та успішно активовано."
 
 #: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3646
 #, php-format
 msgid "%1$s installed successfully."
-msgstr ""
+msgstr "%1$s успішно встановлено."
 
 #: woocommerce/single-product-reviews.php:40
 #, php-format
 msgid "%1$s review for %2$s"
 msgid_plural "%1$s reviews for %2$s"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%1$s огляд для %2$s"
+msgstr[1] "%1$s оглядів для %2$s"
+msgstr[2] "%1$s оглядів для %2$s"
 
 #: framework/features/woocommerce/estimated-delivery.php:334
 #, php-format
 msgid "%1s - %2s days"
-msgstr ""
+msgstr "%1s - %2s днів"
 
 #: framework/features/open-ai.php:160
 #, php-format
 msgid "%1s AI Assistant"
-msgstr ""
+msgstr "%1s AI Assistant"
 
 #: framework/features/woocommerce/quantity-discounts.php:636
 #, php-format
 msgid "%1s Buy %2s items get %3s OFF %4s %5s on each product %6s"
 msgstr ""
+"%1s Придбайте %2s товарів і отримайте %3s ЗНИЖКУ %4s %5s на кожен продукт %6s"
 
 #: framework/features/woocommerce/quantity-discounts.php:632
 #, php-format
 msgid ""
 "%1s Buy from %2s to %3s items and get %4s OFF %5s %6s on each product %7s"
 msgstr ""
+"%1s Купуйте від %2s до %3s товарів і отримайте %4s ЗНИЖКУ %5s %6s на кожен "
+"продукт %7s"
 
 #: framework/custom-metaboxes.php:44 framework/custom-metaboxes.php:216
 #: framework/custom-metaboxes.php:438
 #, php-format
 msgid "%1s Options"
-msgstr ""
+msgstr "%1s Параметри "
 
 #: framework/system-requirements.php:240
 #, php-format
 msgid "%1s: Requirement - %2s ---  System - %3s"
-msgstr ""
+msgstr "%1s: Вимога - %2s --- Система - %3s"
 
 #: woocommerce/single-product/bought-together.php:190
 #, php-format
 msgid "%s <div class=\"total-products\">For %s item(s)</div>"
-msgstr ""
+msgstr "%s <div class=\"total-products\">Для %s товару(ів)</div>"
 
 #: framework/features/woocommerce/reviews-advanced.php:217
 #, php-format
 msgctxt "%s = human-readable time difference"
 msgid "%s ago"
-msgstr ""
+msgstr "%s тому"
 
 #: framework/panel/panel.php:793 framework/panel/panel.php:794
 #: framework/panel/templates/page-navigation.php:229
@@ -246,42 +253,42 @@ msgstr ""
 #, php-format
 msgid "%s day"
 msgid_plural "%s days"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%s день"
+msgstr[1] "%s днів"
+msgstr[2] "%s днів"
 
 #: framework/panel/templates/popup-import-content.php:516
 #, php-format
 msgid "%s Demo Installed! However, We've Encountered Some Errors:"
-msgstr ""
+msgstr "%s Демо-версію  встановлено! Однак ми зіткнулися з деякими помилками:"
 
 #: framework/panel/templates/popup-import-content.php:512
 #, php-format
 msgid "%s Demo Successfully Installed!"
-msgstr ""
+msgstr "%s Демо-версію  успішно встановлено!"
 
 #: woocommerce/content-product-cat.php:217
 #: woocommerce/content-product-cat.php:230
 #, php-format
 msgid "%s product"
 msgid_plural "%s products"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%s товар"
+msgstr[1] "%s товарів"
+msgstr[2] "%s товарів"
 
 #: woocommerce/global/quantity-select.php:21
 #, php-format
 msgid "%s quantity"
-msgstr ""
+msgstr "%s кількість"
 
 #: framework/panel/templates/theme-builders/page-theme-builders.php:243
 #, php-format
 msgid "%s widgets"
-msgstr ""
+msgstr "%s Віджети "
 
 #: comments.php:45
 msgid "&larr; Older Comments"
-msgstr ""
+msgstr "&larr; Старіші коментарі"
 
 #: framework/panel/templates/popup-instagram-content.php:57
 msgid ""
@@ -388,7 +395,7 @@ msgstr ""
 #: framework/woo.php:2208
 #, php-format
 msgid "<a href=\"%s\">%s</a> has been added to your cart"
-msgstr ""
+msgstr "<a href=\"%s\">%s</a> додано до вашого кошика"
 
 #: framework/panel/templates/popup-theme-deregister.php:15
 msgid ""
@@ -396,6 +403,9 @@ msgid ""
 "account. If you don't have an account, you'll need to create one using your "
 "email and purchase code."
 msgstr ""
+"<b>Доступ до вашого облікового запису:</b> перейдіть на веб-сайт 8theme і "
+"увійдіть у свій обліковий запис. Якщо у вас немає облікового запису, вам "
+"потрібно буде створити його за допомогою електронної пошти та коду покупки."
 
 #: framework/panel/templates/popup-theme-registration.php:103
 #, php-format
@@ -404,6 +414,9 @@ msgid ""
 "to store my purchase code and user data, ensuring a secure and efficient "
 "project management experience."
 msgstr ""
+"<b>Згода на зберігання даних:</b> натискаючи «Зареєструватися», я дозволяю "
+"%s зберігати мій код покупки та дані користувача, забезпечуючи безпечне та "
+"ефективне керування проектом."
 
 #: framework/panel/templates/popup-theme-deregister.php:18
 #, php-format
@@ -411,6 +424,9 @@ msgid ""
 "<b>Enter Purchase Code & Deactivate:</b> In your 8theme account, find %s "
 "enter your XStore purchase code, and %s using the provided option."
 msgstr ""
+"<b>Введіть код покупки та деактивуйте:</b> у своєму обліковому записі 8theme "
+"знайдіть %s, введіть свій код покупки XStore, а %s скористайтеся "
+"запропонованою опцією."
 
 #: framework/panel/templates/popup-theme-registration.php:92
 #, php-format
@@ -419,6 +435,9 @@ msgid ""
 "it's important to be aware of %s ThemeForest's license policy %s. Each valid "
 "license can be used for one project or domain ONLY."
 msgstr ""
+"<b>Ліцензійна політика:</b> я розумію, що коли я реєструю тему XStore, "
+"важливо знати про ліцензійну політику %s ThemeForest %s. Кожну дійсну "
+"ліцензію можна використовувати ТІЛЬКИ для одного проекту або домену."
 
 #: framework/panel/templates/popup-theme-registration.php:114
 msgid ""
@@ -426,6 +445,9 @@ msgid ""
 "domain requests to ensure security and accuracy, as well as to confirm that "
 "each license is used for one project ONLY."
 msgstr ""
+"<b>Перевірка домену вручну:</b> наша команда підтримки переглядає та "
+"перевіряє всі запити на домен, щоб забезпечити безпеку та точність, а також "
+"підтвердити, що кожна ліцензія використовується ЛИШЕ для одного проекту."
 
 #: framework/panel/templates/popup-theme-deregister.php:16
 #, php-format
@@ -434,6 +456,9 @@ msgid ""
 "\"Dashboard\" section. You can usually find this in the top menu bar. Here's "
 "the direct link: %s."
 msgstr ""
+"<b>Перейдіть до інформаційної панелі:</b> увійшовши в систему, знайдіть і "
+"натисніть на розділ «Інформаційна панель». Зазвичай це можна знайти у "
+"верхній панелі меню. Ось пряме посилання: %s."
 
 #: framework/customizer/theme-options/404-page/404-page.php:16
 msgid ""
@@ -446,39 +471,50 @@ msgid ""
 "correctly, a good 404 page can help users forgive the error (even if it was "
 "their own fault) and keep them on the website."
 msgstr ""
+"Сторінка 404 – це цільова сторінка, яка інформує відвідувачів веб-сайту про "
+"те, що запитана сторінка недоступна або не існує. В ідеалі відвідувачі "
+"ніколи не потрапили б на сторінку 404, однак це не завжди так, навіть для "
+"добре обслуговуваних сайтів. Наявність візуально привабливої та зручної "
+"сторінки помилки 404 демонструє клієнтам, що веб-сайт турбується про їхній "
+"досвід і зацікавлений у тому, щоб вони залишалися на веб-сайті. Якщо все "
+"зроблено правильно, хороша сторінка 404 може допомогти користувачам "
+"пробачити помилку (навіть якщо це була їхня провина) і зберегти їх на веб-"
+"сайті."
 
 #: woocommerce/myaccount/form-login.php:112
 msgid "A link to set a new password will be sent to your email address."
 msgstr ""
+"На вашу електронну адресу буде надіслано посилання для встановлення нового "
+"пароля."
 
 #: framework/customizer/theme-options/woocommerce/shop/products-style.php:518
 #: framework/customizer/theme-options/woocommerce/shop/products-style.php:533
 msgid "a media file"
-msgstr ""
+msgstr "медіафайл"
 
 #: framework/panel/templates/page-header.php:346
 msgid "A new version available"
-msgstr ""
+msgstr "Доступна нова версія"
 
 #: single.php:136
 msgid "About Author"
-msgstr ""
+msgstr "Про автора"
 
 #: framework/customizer/theme-options/blog/single-post.php:92 single.php:130
 msgid "About author"
-msgstr ""
+msgstr "Про автора"
 
 #: framework/customizer/theme-options/blog/layout.php:154
 msgid "Above all the blog content"
-msgstr ""
+msgstr "Головний вміст блогу"
 
 #: framework/customizer/theme-options/blog/layout.php:155
 msgid "Above all the blog content (full-width)"
-msgstr ""
+msgstr "Головний  вміст блогу full-width)"
 
 #: framework/customizer/theme-options/woocommerce/shop/layout.php:326
 msgid "Above all the shop content"
-msgstr ""
+msgstr "Головний вміст магазину"
 
 #: framework/customizer/theme-options/woocommerce/shop/layout.php:327
 msgid "Above all the shop content (full-width)"
@@ -653,7 +689,7 @@ msgstr ""
 
 #: framework/customizer/theme-options/woocommerce/single-product/compare.php:64
 msgid "Add to compare"
-msgstr ""
+msgstr "Додати до порівняння"
 
 #: framework/customizer/theme-options/woocommerce/single-product/wishlist.php:64
 msgid "Add to wishlist"
@@ -696,7 +732,7 @@ msgstr ""
 
 #: woocommerce/myaccount/dashboard.php:47
 msgid "Addresses"
-msgstr ""
+msgstr "Адреса"
 
 #: framework/panel/templates/popup-elementor_theme_builder-content.php:13
 #, php-format
@@ -706,6 +742,9 @@ msgid ""
 "or its free alternative, %2$s plugin. We cannot install them automatically. "
 "Please install one of these plugins to proceed then."
 msgstr ""
+"<strong>Важливо!</strong> Для цієї функції вам потрібно встановити %1$s або "
+"його безкоштовну альтернативу, плагін %2$s. Ми не можемо встановити їх "
+"автоматично. Щоб продовжити, установіть один із цих плагінів."
 
 #: framework/customizer/theme-options/woocommerce/shop/layout.php:236
 msgid "Advanced"
@@ -2734,9 +2773,9 @@ msgstr ""
 msgctxt "comments title"
 msgid "%1$s comment on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%1$s коментар до &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s коментарі до &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s коментарі до &ldquo;%2$s&rdquo;"
 
 #: framework/config-js.php:446
 #: framework/customizer/theme-options/woocommerce/single-product/compare.php:14
@@ -11928,7 +11967,7 @@ msgstr ""
 
 #: woocommerce/myaccount/dashboard.php:38
 msgid "Welcome to your account page"
-msgstr ""
+msgstr "Вітаємо на сторінці вашого облікового запису"
 
 #: framework/panel/templates/page-welcome.php:87
 #, php-format
@@ -12685,24 +12724,25 @@ msgstr ""
 
 #: framework/woo.php:5094
 msgid "{eye} {count} people are viewing this product right now"
-msgstr ""
+msgstr "{eye} {count} люди переглядають цей продукт прямо зараз"
 
 #: framework/customizer/theme-options/woocommerce/single-product/countdown.php:59
 #: framework/woo.php:1965
 msgid "{fire} Hurry up! Sale ends in:"
-msgstr ""
+msgstr "{fire} Поспішайте! Розпродаж закінчується через:"
 
 #: framework/features/woocommerce/cart-checkout.php:655
 msgid "{fire} Hurry up, these products are limited, checkout within {timer}"
 msgstr ""
+"{fire} Поспішайте, кількість цих продуктів обмежена, оплата протягом {timer}"
 
 #: framework/woo.php:5132
 msgid "{fire} {count} items sold in last {timeframe}"
-msgstr ""
+msgstr "{fire} {count} предметів, проданих за останні {timeframe}"
 
 #: framework/woo.php:358
 msgid "{fire} {count} items sold in {hours} hours"
-msgstr ""
+msgstr "{fire} {count} предметів, проданих за {hours} год"
 
 #: framework/woo.php:3558
 #, php-format

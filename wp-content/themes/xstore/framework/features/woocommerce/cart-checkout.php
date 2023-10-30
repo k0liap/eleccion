@@ -759,13 +759,11 @@ class Etheme_WooCommerce_Cart_Checkout {
 		
 		$element_options['xstore_sales_booster_settings_cart_checkout'] = $element_options['xstore_sales_booster_settings_default'];
 		
-		if ( count($element_options['xstore_sales_booster_settings']) && isset($element_options['xstore_sales_booster_settings']['cart_checkout'])) {
-			$element_options['xstore_sales_booster_settings'] = wp_parse_args( $element_options['xstore_sales_booster_settings']['cart_checkout'],
+		if ( count($element_options['xstore_sales_booster_settings']) && isset($element_options['xstore_sales_booster_settings']['cart_checkout_progress_bar'])) {
+			$element_options['xstore_sales_booster_settings'] = wp_parse_args( $element_options['xstore_sales_booster_settings']['cart_checkout_progress_bar'],
 				$element_options['xstore_sales_booster_settings_default'] );
 			
 			$element_options['xstore_sales_booster_settings_cart_checkout'] = $element_options['xstore_sales_booster_settings'];
-
-
 		}
 		
 		$element_options['cart_options'] = array(

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: XStore Core\n"
 "POT-Creation-Date: 2023-10-20 20:16+0300\n"
-"PO-Revision-Date: 2023-10-25 09:31+0000\n"
+"PO-Revision-Date: 2023-10-29 14:58+0000\n"
 "Last-Translator: \n"
 "Language-Team: Українська\n"
 "MIME-Version: 1.0\n"
@@ -19,6 +19,7 @@ msgstr ""
 "_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
+"\n"
 "Report-Msgid-Bugs-To: \n"
 "Language: uk\n"
 "X-Loco-Version: 2.6.6; wp-6.3.2"
@@ -10005,7 +10006,6 @@ msgid "%s product"
 msgid_plural "%s products"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: app/controllers/elementor/general/custom-product-categories-masonry.php:1016
 msgid "View more"
@@ -15642,7 +15642,6 @@ msgid "%s post"
 msgid_plural "%s posts"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: app/controllers/elementor/general/team-member.php:36
 msgid "Team Member"
@@ -18702,7 +18701,7 @@ msgstr ""
 
 #: app/controllers/top-bar-menu.php:57
 msgid "Dashboard"
-msgstr "Панель"
+msgstr ""
 
 #: app/controllers/top-bar-menu.php:67 packages/cmb2/example-functions.php:686
 msgid "Theme Options"
@@ -22605,7 +22604,6 @@ msgid "%1$s product"
 msgid_plural "%1$s products"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: app/models/customizer/templates/woocommerce/archive-product/etheme-archive-product-custom-html-1.php:18
 msgid "Custom HTML 1"
@@ -22626,7 +22624,6 @@ msgid "Showing the single result"
 msgid_plural "Showing %1$d / %2$d results"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: app/models/customizer/templates/woocommerce/archive-product/etheme-archive-product-pagination.php:49
 msgid "Load more"
@@ -29962,7 +29959,6 @@ msgid "item"
 msgid_plural "items"
 msgstr[0] ""
 msgstr[1] ""
-msgstr[2] ""
 
 #: app/models/widgets/instagram.php:347
 msgid "Follow Us"
